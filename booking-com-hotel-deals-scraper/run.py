@@ -115,10 +115,13 @@ try:
             print('PrettyTable not detected. Proceeding to saving the results in csv')
 
         # save results in CSV file
-        with open(csv_filename+'.csv', 'w', newline='') as csvfile:
-            csv_writer = csv.writer(csvfile)
-            for row in details:
-                csv_writer.writerow(row)
+        try:
+            with open(csv_filename+'.csv', 'w', newline='') as csvfile:
+                csv_writer = csv.writer(csvfile)
+                for row in details:
+                    csv_writer.writerow(row)
+        except:
+            pass
 
 
         bot.quit()
