@@ -103,25 +103,32 @@ try:
         bot.apply_filtration()
         bot.refresh()
 
-        details=bot.get_info(int(number_of_results))
+        #get details in batches
+        table = PrettyTable()
+        table.field_names = ['Number','Hotel Names','Hotel Ratings','Number of Reviews','Hotel Prices']
 
-        # show results in table form
-        try:
-            table=PrettyTable()
-            table.field_names=details[0]
-            table.add_rows(details[1:])
-            print(table)
-        except:
-            print('PrettyTable not detected. Proceeding to saving the results in csv')
+        while True:
+            stop,details=bot.get_info(int(number_of_results))
 
-        # save results in CSV file
-        try:
-            with open(csv_filename+'.csv', 'w', newline='') as csvfile:
-                csv_writer = csv.writer(csvfile)
-                for row in details:
-                    csv_writer.writerow(row)
-        except:
-            pass
+            try:
+                table = PrettyTable()
+                table.field_names = ['Number', 'Hotel Names', 'Hotel Ratings', 'Number of Reviews', 'Hotel Prices']
+                table.add_rows(details)
+                print(table)
+
+            except:
+                pass
+
+            try:
+                with open(csv_filename + '.csv', 'a', newline='') as csvfile:
+                    csv_writer = csv.writer(csvfile)
+                    for row in details:
+                        csv_writer.writerow(row)
+            except:
+                pass
+
+            if stop:
+                break
 
 
         bot.quit()

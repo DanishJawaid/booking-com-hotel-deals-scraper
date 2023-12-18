@@ -7,6 +7,8 @@ from booking import constants
 from selenium.webdriver.common.by import By
 from booking.booking_filtration import BookingFiltration
 
+stop=False
+last_index=1
 
 class Booking(webdriver.Chrome):
     def __init__(self,driver_path=ChromeDriverManager().install(),teardown=False):
@@ -18,6 +20,7 @@ class Booking(webdriver.Chrome):
         super(Booking,self).__init__(options=options)
         self.implicitly_wait(5)
         self.maximize_window()
+
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         if self.teardown:
@@ -170,10 +173,6 @@ class Booking(webdriver.Chrome):
                 break
 
 
-        # people_done=self.find_element(By.CLASS_NAME,'e4adce92df')
-        # people_done.click()
-
-
     def apply_filtration(self):
         filtration=BookingFiltration(driver=self)
 
@@ -182,23 +181,22 @@ class Booking(webdriver.Chrome):
 
 
     def get_info(self,number_of_results=20):
-        hotel_names=[]
-        hotel_ratings=[]
-        hotel_prices=[]
-        hotel_reviews=[]
+
+        global stop
+        global last_index
 
         while True:
             time.sleep(5)
             hotel_name,hotel_rating,hotel_price,hotel_review=self.extract_info()
 
-            hotel_names.extend(hotel_name)
-            hotel_ratings.extend(hotel_rating)
-            hotel_prices.extend(hotel_price)
-            hotel_reviews.extend(hotel_review)
-            print(len(hotel_names))
 
-            if len(hotel_ratings)>number_of_results:
-                break
+
+            hotel_details = [[i for i in range(last_index, len(hotel_name) + last_index)], hotel_name, hotel_rating, hotel_review,hotel_price]
+            hotel_details = [list(row) for row in zip(*hotel_details)]
+
+            if len(hotel_rating)+last_index>number_of_results:
+                hotel_details = hotel_details[:number_of_results-last_index+1]
+                stop=True
 
             #find next page
             try:
@@ -207,12 +205,10 @@ class Booking(webdriver.Chrome):
                 break
             next_page_button.click()
 
+            last_index = last_index + len(hotel_name)
 
-        hotel_details=[[i for i in range(1, len(hotel_names)+1)],hotel_names,hotel_ratings,hotel_reviews,hotel_prices]
-        hotel_details = [list(row) for row in zip(*hotel_details)]
-        hotel_details=hotel_details[:number_of_results]
-        hotel_details.insert(0,['Number','Hotel Names','Hotel Ratings','Number of Reviews','Hotel Prices'])
-        return hotel_details
+            return stop,hotel_details
+
 
     def close_popup(self,type,close_element):
         try:
