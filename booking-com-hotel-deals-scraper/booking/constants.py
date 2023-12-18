@@ -1,0 +1,1 @@
+BASE_URL=r'https://www.booking.com'
