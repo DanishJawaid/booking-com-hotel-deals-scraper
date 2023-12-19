@@ -10,6 +10,8 @@ try:
         bot.land_first_page()
         print('Checking for popups...')
 
+
+
         # close signin popup
         bot.close_popup('class', 'f4552b6561')
 
@@ -55,10 +57,54 @@ try:
                     if number_of_adults<31:
                         break
                     else:
-                        print('Sorry, Booking for more than 30 people is not available')
+                        print('Sorry, Booking for more than 30 adults is not available')
                 break
             except:
                 print('Please enter integer ranging from 1 to 30')
+
+        # Take number of children
+        while True:
+            try:
+                while True:
+                    number_of_children = int(input('Number of children: '))
+                    if number_of_children < 11:
+                        break
+                    else:
+                        print('Sorry, Booking for more than 10 children is not available')
+                break
+            except:
+                print('Please enter integer ranging from 1 to 10')
+
+        # Take ages of children
+
+        children_ages=[]
+
+        for child in range(1,number_of_children+1):
+            while True:
+                try:
+                    while True:
+                        child_age = int(input(f'Age of child {child}: '))
+                        if child_age < 18:
+                            children_ages.append(child_age)
+                            break
+                        else:
+                            print('Sorry, Please enter age between 0 and 17')
+                    break
+                except:
+                    print('Please enter integer ranging from 0 and 17')
+
+        # Take number of rooms. Not usable
+        # while True:
+        #     try:
+        #         while True:
+        #             number_of_rooms=int(input('Number of rooms: '))
+        #             if number_of_rooms<31:
+        #                 break
+        #             else:
+        #                 print('Sorry, Booking for more than 30 rooms is not available')
+        #         break
+        #     except:
+        #         print('Please enter integer ranging from 1 to 30')
 
         # Take Number of results
         while True:
@@ -92,20 +138,27 @@ try:
         time.sleep(4)
         bot.click_place_to_go()
         bot.select_date(check_in_date=check_in_date,check_out_date=check_out_date)
-        bot.setpeople(adults=2)
+        bot.set_people(number_of_adults)
+        bot.set_children(children_ages)
+
         bot.search()
 
         # close signin popup
         bot.close_popup('class','f4552b6561')
 
         #apply filters on results
+
         time.sleep(4)
         bot.apply_filtration()
         bot.refresh()
 
-        #get details in batches
-        table = PrettyTable()
-        table.field_names = ['Number','Hotel Names','Hotel Ratings','Number of Reviews','Hotel Prices']
+        # Set rooms. Not usable
+        # time.sleep(4)
+        # bot.set_rooms(number_of_rooms)
+        # bot.search()
+        # time.sleep(4)
+        # bot.set_rooms_again()
+        # time.sleep(4)
 
         while True:
             stop,details=bot.get_info(int(number_of_results))
@@ -130,7 +183,7 @@ try:
             if stop:
                 break
 
-
+        input(':')
         bot.quit()
 
 except Exception as e:

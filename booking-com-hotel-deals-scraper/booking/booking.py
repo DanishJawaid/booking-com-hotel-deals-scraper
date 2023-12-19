@@ -150,7 +150,7 @@ class Booking(webdriver.Chrome):
         search_selector=self.find_element(By.CLASS_NAME,'cceeb8986b')
         search_selector.click()
 
-    def setpeople(self,adults=1):
+    def set_people(self,adults=1):
 
         #select people dropdown
         people_selector = self.find_element(By.CSS_SELECTOR, 'span[data-testid="searchbox-form-button-icon"]')
@@ -172,12 +172,74 @@ class Booking(webdriver.Chrome):
             else:
                 break
 
+    # def set_rooms(self,rooms=1):
+    #
+    #     #select people dropdown
+    #     people_selector = self.find_element(By.CSS_SELECTOR, 'span[data-testid="searchbox-form-button-icon"]')
+    #     people_selector.click()
+    #
+    #     # find plus minus adults
+    #     room_minus = self.find_elements(By.CLASS_NAME, 'e91c91fa93')
+    #     room_minus = room_minus[2]
+    #     room_plus = self.find_elements(By.CLASS_NAME, 'f4d78af12a')
+    #     room_plus = room_plus[2]
+    #
+    #
+    #     while True:
+    #
+    #         number_of_rooms = int(self.find_elements(By.CLASS_NAME, 'd723d73d5f')[2].text)
+    #
+    #         if number_of_rooms>rooms:
+    #             room_minus.click()
+    #         elif number_of_rooms<rooms:
+    #             room_plus.click()
+    #         else:
+    #             break
+    #
+    #     done=self.find_element(By.CLASS_NAME,'c213355c26')
+    #     done.click()
+
+    def set_children(self,children_ages=[]):
+
+        #find plus minus adults
+        child_minus = self.find_elements(By.CLASS_NAME, 'e91c91fa93')
+        child_minus=child_minus[1]
+        child_plus = self.find_elements(By.CLASS_NAME, 'f4d78af12a')
+        child_plus=child_plus[1]
+
+
+        while True:
+
+            number_of_children = int(self.find_elements(By.CLASS_NAME, 'd723d73d5f')[1].text)
+
+            if number_of_children>len(children_ages):
+                child_minus.click()
+            elif number_of_children<len(children_ages):
+                child_plus.click()
+            else:
+                break
+
+
+        children_ages_dropdowns=self.find_elements(By.CLASS_NAME,'ebf4591c8e')
+
+        for index,children_ages_dropdown in enumerate(children_ages_dropdowns):
+            children_ages_dropdown.click()
+            child_age_element=children_ages_dropdown.find_element(By.CSS_SELECTOR,f'option[value="{children_ages[index]}"]')
+            child_age_element.click()
+
 
     def apply_filtration(self):
         filtration=BookingFiltration(driver=self)
 
         filtration.lowest_prices()
         filtration.select_property_rating(3,4)
+
+
+    # def set_rooms_again(self):
+    #     suggest_elements=self.find_elements(By.CLASS_NAME,'b98133fb50')
+    #     for suggest_element in suggest_elements:
+    #         if 'rooms or more.' in suggest_element.text:
+    #             suggest_element.click()
 
 
     def get_info(self,number_of_results=20):
