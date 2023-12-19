@@ -7,12 +7,12 @@ import os
 try:
     with Booking(teardown=False) as bot:
 
+        # Land on first page
         bot.land_first_page()
+
         print('Checking for popups...')
 
-
-
-        # close signin popup
+        # Close signin popup
         bot.close_popup('class', 'f4552b6561')
 
         # Close cookie popup
@@ -27,6 +27,7 @@ try:
                 print('Currency not supported')
 
 
+        # Take place to go
         place_to_go = input('Where do you want to go?: ')
 
         # Take check in check out dates
@@ -76,7 +77,6 @@ try:
                 print('Please enter integer ranging from 1 to 10')
 
         # Take ages of children
-
         children_ages=[]
 
         for child in range(1,number_of_children+1):
@@ -114,6 +114,7 @@ try:
             except:
                 print('Please enter integer')
 
+        # Take csv file name to generate
         while True:
             csv_filename = input("CSV file name to save results: ")
 
@@ -140,14 +141,12 @@ try:
         bot.select_date(check_in_date=check_in_date,check_out_date=check_out_date)
         bot.set_people(number_of_adults)
         bot.set_children(children_ages)
-
         bot.search()
 
-        # close signin popup
+        # Close signin popup
         bot.close_popup('class','f4552b6561')
 
-        #apply filters on results
-
+        # Apply filters on results
         time.sleep(4)
         bot.apply_filtration()
         bot.refresh()
@@ -160,9 +159,20 @@ try:
         # bot.set_rooms_again()
         # time.sleep(4)
 
+        # Save field names in csv file
+        try:
+            with open(csv_filename + '.csv', 'a', newline='') as csvfile:
+                csv_writer = csv.writer(csvfile)
+                csv_writer.writerow(['Number', 'Hotel Names', 'Hotel Ratings', 'Number of Reviews', 'Hotel Prices'])
+        except:
+            pass
+
+
+        # Show pretty table from info and save it in csv file
         while True:
             stop,details=bot.get_info(int(number_of_results))
 
+            # Make pretty table gradually from scraped info
             try:
                 table = PrettyTable()
                 table.field_names = ['Number', 'Hotel Names', 'Hotel Ratings', 'Number of Reviews', 'Hotel Prices']
@@ -172,6 +182,7 @@ try:
             except:
                 pass
 
+            # Save the scraped info into csv file gradually
             try:
                 with open(csv_filename + '.csv', 'a', newline='') as csvfile:
                     csv_writer = csv.writer(csvfile)
@@ -180,6 +191,7 @@ try:
             except:
                 pass
 
+            # Stops process when required number of results have been scraped
             if stop:
                 break
 
