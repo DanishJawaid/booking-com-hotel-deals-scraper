@@ -13,7 +13,7 @@ The Booking.com Hotel Deals Scraper is a Python program designed to streamline t
 
 - Python 3.x
 - Selenium library
-- This works with US and Canada versions of the booking.com
+- This is made for use with US version of the booking.com. It might also work with other versions
 
 ## Usage
 
