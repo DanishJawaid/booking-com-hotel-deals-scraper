@@ -195,7 +195,7 @@ try:
             if stop:
                 break
 
-        input(':')
+        input('Press Enter to close')
         bot.quit()
 
 except Exception as e:

@@ -1,0 +1,1001 @@
+Number,Hotel Names,Hotel Ratings,Number of Reviews,Hotel Prices
+1,HUGE 2 Floor with Home Theatre Room,6.7,12 reviews,$134
+2,Souplex apartment - green setting,unrated,no review,$137
+3,Splendid apartment 1BR6P apartment - Tour Eiffel Champs de Mars 0,6.0,6 reviews,$140
+4,Magnifique loft - Place Saint Fargeau,6.7,33 reviews,$140
+5,CMG Hotel de Ville - Manteaux,6.3,32 reviews,$147
+6,Metropol,6.5,"2,720 reviews",$153
+7,Fantastic flat 1BDR6P-REPUBLIQUE,unrated,no review,$161
+8,Amazing apartment-6P- Montorgueil - République,6.3,6 reviews,$161
+9,Cozy apartment - Paris Porte de Versailles,6.4,12 reviews,$163
+10,Hipotel Paris Père-Lachaise République,5.4,"2,170 reviews",$167
+11,Cosy apartment in the heart of Belleville 6P2bedroom,7.0,9 reviews,$168
+12,CMG Cavallotti - Montmartre,6.7,14 reviews,$171
+13,Amazing apartment 5P1BR - Belleville,6.7,25 reviews,$175
+14,60 m with terrace near train stations,unrated,no review,$175
+15,CMG-Clery - Place des Victoires,7.6,54 reviews,$180
+16,Cactus,7.1,"1,303 reviews",$181
+17,Cosy apartment-6P-PigalleLafayette,unrated,32 external reviews,$181
+18,Appartement 2 pièces au pied du métro Buzenval.,7.6,7 reviews,$183
+19,Hotel Le Clos d'Alésia,7.2,"1,263 reviews",$185
+20,Le Bellevue,8.3,"2,529 reviews",$186
+21,Cosy apartment- 6P- Folies Bergères,3.0,1 review,$188
+22,CMG Nation- Industriels D,6.9,34 reviews,$189
+23,Modern Apartment near MontmartreSacré Cœur,unrated,7 external reviews,$190
+24,Résidence Saint Charles - Parc des Expositions,7.4,5 reviews,$193
+25,Hotel Agenor,7.0,"1,208 reviews",$195
+26,CMG Tres bel appartement lumineux Montorgueil Sentier,6.8,11 reviews,$198
+27,Bastille - Lappe - Quartier anime,unrated,13 external reviews,$201
+28,Hôtel Renoir Montparnasse,6.2,"1,141 reviews",$201
+29,CityKamp Paris,7.7,575 reviews,$202
+30,Splendid Place 2BR6P - MaraisRépublique,8.0,2 reviews,$204
+31,Hipotel Paris Belgrand Mairie du 20ème,7.0,"1,417 reviews",$204
+32,Ibis Paris Gare Montparnasse Catalogne,8.4,"1,857 reviews",$205
+33,TOUR EIFFEL VAUGIRARD PARIS,5.6,17 reviews,$206
+34,Libertel Montmartre Opéra,8.3,"1,134 reviews",$207
+35,Appartement Paris près de Gare de Lyon,6.8,70 reviews,$207
+36,Appartement Charmant et Spacieux au Cœur de Paris,unrated,no review,$208
+37,121 Paris Hotel,6.7,855 reviews,$208
+38,Amazing Apartment 2BR6P - Sacré Coeur Montmartre,7.3,15 reviews,$208
+39,Hotel Le Twelve,6.3,"1,009 reviews",$211
+40,Beautiful Apartment 6 P - Village d'Auteuil,10,1 review,$211
+41,Hotel Moderne Saint Germain,8.1,"2,116 reviews",$213
+42,CMG Lamartine-Maubeuge,6.0,14 reviews,$213
+43,CMG Résidence Canal Saint-Martin / Vellefaux,7.4,226 reviews,$214
+44,Hôtel Coypel by Magna Arbor,7.7,"2,459 reviews",$217
+45,Résidence Le Belleville,9.2,21 reviews,$217
+46,Charming Appart duplex 7P2BR Le Marais,9.1,7 reviews,$219
+47,Champs de Mars Appartement,8.5,95 reviews,$219
+48,Mon Paris,7.5,96 reviews,$219
+49,CMG Faubourg Saint-Martin,7.9,75 reviews,$219
+50,Stylish parisian Loft 6P1BR - City Center Sentier,7.5,11 reviews,$219
+51,Est Hotel,8.1,"6,378 reviews",$220
+52,Hotel Bellevue Montmartre,7.5,101 reviews,$220
+53,Charming apartment 2BR8P - South Pigalle - 2,unrated,10 external reviews,$222
+54,Aparthotel Adagio Access Paris La Villette,7.2,"1,106 reviews",$222
+55,Résidence Javel 1,7.7,3 reviews,$222
+56,Avalon Hotel,6.9,"2,848 reviews",$224
+57,Hôtel Korner Etoile,8.3,"1,395 reviews",$225
+58,Hôtel Kabanel,7.5,"2,244 reviews",$225
+59,Hôtel Du Mont Dore Batignolles,7.8,251 reviews,$225
+60,CMG Résidence Strasbourg-Saint Denis / Beauregard,7.1,63 reviews,$226
+61,Le Trente,7.9,976 reviews,$228
+62,Korner Opera,7.9,"1,186 reviews",$228
+63,Grand Hôtel du Havre,6.4,"1,897 reviews",$229
+64,Beautiful place 1BR5P - Montorgueil,7.0,22 reviews,$230
+65,Elysees Niel Hotel,8.0,"1,322 reviews",$230
+66,Hotel Riviera Elysees,6.7,"1,303 reviews",$230
+67,Levis Charming Place,8.1,71 reviews,$230
+68,Grand Hôtel Des Gobelins,8.1,"1,898 reviews",$233
+69,Les Patios du Marais 1,7.4,"2,812 reviews",$234
+70,Hotel Le Richemont,7.9,"1,884 reviews",$235
+71,Beautiful place-6P- République,7.0,26 reviews,$235
+72,So Stay - Appartement tendance avec 1 chambre à Montorgueil,8.7,47 reviews,$235
+73,Résidence Near Republique,7.7,7 reviews,$235
+74,WIT Hotel,7.1,"2,926 reviews",$236
+75,ibis Paris Gare du Nord TGV,7.5,"1,755 reviews",$237
+76,Hotel Atelier Vavin,6.7,850 reviews,$237
+77,Moulin Vert,6.7,"1,538 reviews",$237
+78,Cosy 2 bedrooms 1 bathroom apartment- Le Marais Pompidou,7.5,35 reviews,$237
+79,Hôtel Marais de Launay,8.4,"1,367 reviews",$237
+80,Spacious duplex near Montmartre,Exceptional 10,4 external reviews,$237
+81,Spacious apartment near Buttes Chaumont park,unrated,5 external reviews,$237
+82,Source Hôtel,8.2,"1,622 reviews",$238
+83,"Holiday Inn Express Paris-Canal De La Villette, an IHG Hotel",8.1,"4,885 reviews",$238
+84,ibis Paris Italie Tolbiac,7.9,"2,310 reviews",$239
+85,Glasgow Monceau by Patrick Hayat,8.0,634 reviews,$239
+86,Hotel Berne Opera,8.1,"1,258 reviews",$239
+87,Hotel Havane Opera,6.4,431 reviews,$239
+88,Hipotel Paris buttes chaumont Belleville,7.0,"1,077 reviews",$239
+89,Hôtel de la Gaîté,6.3,"1,106 reviews",$239
+90,Hôtel Lucien & Marinette,8.2,"3,605 reviews",$240
+91,Hotel Best Western Anjou Lafayette,8.1,"1,140 reviews",$240
+92,Grand Hôtel De Turin,7.8,"1,831 reviews",$241
+93,Sacre coeur Paris Montmartre,7.5,78 reviews,$241
+94,Charming appartement 6P - OberkampfSaintonge,6.6,22 reviews,$241
+95,Pavillon Opéra Lafayette,7.2,235 reviews,$242
+96,Grand Hotel Nouvel Opera,6.2,"1,312 reviews",$243
+97,Hôtel Ambassadeur,7.5,"1,282 reviews",$244
+98,Apartments WS Saint-Lazare - Opera,7.4,"1,288 reviews",$244
+99,CMG - Grands boulevards / Rex,6.9,38 reviews,$246
+100,Hôtel Apollo Opéra,7.0,954 reviews,$246
+101,Chatillon Paris Montparnasse,8.1,"1,361 reviews",$247
+102,ibis Paris Porte de Montreuil,6.1,"3,351 reviews",$247
+103,Monsieur montmartre,unrated,no review,$248
+104,Hotel Campanile Paris-Bercy Village,7.9,"6,801 reviews",$248
+105,Hôtel Opera Lafayette,7.4,"1,968 reviews",$249
+106,Hotel Paris Villette,7.5,"1,102 reviews",$250
+107,Campanile Paris 19 - La Villette,7.9,"5,725 reviews",$250
+108,Campanile Paris 14 - Maine Montparnasse,7.9,"3,282 reviews",$252
+109,Hôtel Joséphine by Happyculture,8.0,"1,534 reviews",$252
+110,B&B HOTEL Paris Nord 18ème,7.4,"3,400 reviews",$252
+111,Excelsior Batignolles,8.1,"1,363 reviews",$252
+112,Residence central marais,8.0,133 reviews,$252
+113,Nature and Haven of Peace Apartment,7.8,43 reviews,$253
+114,Residhome Paris Rosa Parks,8.2,"2,705 reviews",$253
+115,55 Hôtel Montparnasse,7.7,"1,926 reviews",$253
+116,ibis Paris 17 Clichy-Batignolles,6.4,"6,540 reviews",$253
+117,Appartement Quartier MontmartreSaint LazareLafayette,7.2,18 reviews,$255
+118,Hotel Eden Montmartre,7.9,"1,549 reviews",$255
+119,ibis Styles Paris Nation Porte De Montreuil,7.6,"1,918 reviews",$255
+120,Hotel d'Amiens,8.1,"1,641 reviews",$256
+121,Ibis Styles Paris Batignolles,8.1,"1,067 reviews",$256
+122,Porte de Versailles Hotel,7.9,"1,075 reviews",$256
+123,Apartment Arc de Triomphe Champs Elysées,8.5,2 reviews,$257
+124,Hotel le 18 Paris,7.8,"1,683 reviews",$257
+125,Hôtel Alane,7.7,"1,463 reviews",$257
+126,Hôtel Clarisse,8.0,837 reviews,$258
+127,Da Vinci Apartment Paris Montmartre,8.0,115 reviews,$258
+128,Hipotel Paris Voltaire Bastille,7.1,"2,575 reviews",$259
+129,CAMBRONNE 4 TOUR EIFFEL PARIS,6.3,10 reviews,$260
+130,Hôtel Hor Les Lumières,8.3,"2,490 reviews",$261
+131,Libertel Austerlitz Jardin des Plantes,7.9,"2,109 reviews",$262
+132,Best Western Plus 61 Paris Nation Hotel,7.7,"1,529 reviews",$263
+133,ibis Paris Canal Saint Martin,7.8,"1,636 reviews",$263
+134,RESIDENCE NATION,8.5,28 reviews,$263
+135,Hôtel De Nice,8.1,"1,657 reviews",$263
+136,Grand Hotel Dore,8.2,989 reviews,$263
+137,Hôtel Orchidée,8.4,"3,277 reviews",$263
+138,Hôtel Sanso by HappyCulture,8.5,"2,012 reviews",$263
+139,Kyriad Hotel XIII Italie Gobelins,8.0,"4,350 reviews",$263
+140,Hotel Hauteville Opera,6.9,971 reviews,$263
+141,Amazing Residence Caire Montorgueil,8.5,12 reviews,$264
+142,Apartments WS Opéra - Laffitte,7.6,756 reviews,$264
+143,Apartments WS Hôtel de Ville - Beaubourg,7.3,344 reviews,$264
+144,ibis Paris La Villette Cité des Sciences 19ème,7.3,"1,678 reviews",$264
+145,Cosy 4 People near Montmartre and opera,6.6,41 reviews,$265
+146,Mercure Paris 19 Philharmonie La Villette,6.9,"2,825 reviews",$266
+147,Hôtel Léna,7.7,"1,608 reviews",$266
+148,Hotel Terminus Lyon,7.8,"3,964 reviews",$266
+149,Hotel Marena,7.8,"1,254 reviews",$267
+150,Hôtel Baldi by Magna Arbor,7.5,"2,355 reviews",$267
+151,Hôtel Lumières Montmartre Paris,7.4,"1,763 reviews",$267
+152,Nouvel Hôtel,7.7,"1,230 reviews",$267
+153,"The Originals City, Hôtel Lecourbe, Paris Tour Eiffel (Inter-Hotel)",7.9,"1,631 reviews",$268
+154,Hôtel De La Paix,8.3,"2,017 reviews",$268
+155,Charming Apartment- 2BR6P- Gare Montparnasse,7.9,15 reviews,$268
+156,Exceptional Home close to the Eiffel Tower,7.8,15 reviews,$268
+157,Hotel André Latin,8.1,"1,383 reviews",$269
+158,Hôtel Istria by Magna Arbor,7.7,"2,170 reviews",$269
+159,Apollon Montparnasse,7.9,"1,813 reviews",$269
+160,Hôtel Lodge In Paris 13,6.7,"2,487 reviews",$269
+161,ibis Paris Avenue d'Italie 13ème,7.6,"3,747 reviews",$269
+162,Exe Paris centre,8.1,"1,698 reviews",$270
+163,Libertel Gare de L'Est Francais,8.0,"2,284 reviews",$271
+164,Charming Appartement 6P3BR Le Marais 2B,7.6,15 reviews,$271
+165,Quartier Latin! 3 best Apartments in Paris,8.6,223 reviews,$272
+166,Pick A Flat's Apartments in Bastille - Rue du Faubourg Saint-Antoine,unrated,no review,$272
+167,Courcelles Etoile,8.2,"1,408 reviews",$272
+168,Hôtel Brittany,8.5,317 reviews,$272
+169,Arcadie Montparnasse,8.1,"2,184 reviews",$273
+170,New Hotel Saint Lazare,6.3,"1,428 reviews",$273
+171,ibis Paris Alesia Montparnasse,7.5,"3,240 reviews",$274
+172,Luxury 2 Bedroom - Notre Dame,9.3,3 reviews,$274
+173,Hôtel Paris La Fayette,7.9,"2,226 reviews",$274
+174,Luxury 2 Bedroom & 1 Bathroom - Le Marais,7.1,7 reviews,$274
+175,Timhotel Paris Gare de l'Est,7.6,"1,739 reviews",$275
+176,Timhotel Paris Gare de l'Est,7.6,"1,739 reviews",$275
+177,CMG Résidence Saint Lazare,6.5,46 reviews,$275
+178,Apartment well decorated in paris 8th,unrated,24 external reviews,$275
+179,ibis Paris Nation Davout,7.8,146 reviews,$275
+180,Hôtel Gaston,8.1,"1,020 reviews",$275
+181,Alyss Saphir Cambronne Eiffel,7.4,"1,089 reviews",$275
+182,Timhotel Paris Gare Montparnasse,7.1,"2,253 reviews",$276
+183,"TOWN HOUSE, WITH GARDEN AND PARKING",unrated,41 external reviews,$277
+184,ibis Paris Gare De L Est 10ème,7.4,869 reviews,$277
+185,ibis Paris Gare De L'Est TGV,7.4,"1,981 reviews",$277
+186,Hôtel Emile Le Marais,7.9,"1,518 reviews",$277
+187,ibis Paris Gare du Nord La Fayette,7.1,"1,567 reviews",$277
+188,Hotel Terminus Montparnasse,7.4,"2,714 reviews",$278
+189,Hôtel Avama Prony,7.8,908 reviews,$278
+190,Hotel Ariane Montparnasse by Patrick Hayat,8.1,330 reviews,$278
+191,Hotel du Chemin Vert,7.6,"1,987 reviews",$278
+192,Sacré-Cœur at Your Feet Private Terrace Retreat,8.7,9 reviews,$278
+193,Kyriad Paris 18 - Porte de Clignancourt - Montmartre,8.1,"3,933 reviews",$278
+194,Exe Panorama,8.2,"1,894 reviews",$278
+195,Sure Hotel by Best Western Paris Gare du Nord,7.0,961 reviews,$278
+196,Hotel Claret,6.4,"2,100 reviews",$279
+197,Amadeus Hotel,7.6,"1,313 reviews",$280
+198,Waldorf Montparnasse,8.1,"1,664 reviews",$280
+199,Maison le Bac Paris Aparthotel,8.2,609 reviews,$280
+200,Hôtel Aurore Paris Gare de Lyon,8.0,"1,525 reviews",$281
+201,Hotel Korner Eiffel,7.9,"1,751 reviews",$281
+202,Les Rebelles,8.8,"1,206 reviews",$281
+203,Hotel Nation Montmartre,6.7,212 reviews,$283
+204,Hotel Inn Design Paris Place d’Italie (ex Timhotel),7.9,"3,223 reviews",$283
+205,Hotel Corona Rodier,7.0,"1,490 reviews",$283
+206,Hotel Saint Cyr Etoile,8.1,"1,103 reviews",$283
+207,Hôtel Paris Gambetta,7.5,"1,107 reviews",$284
+208,Hotel Le Rocroy,7.9,"1,122 reviews",$284
+209,Timhotel Paris Gare de Lyon,7.4,"2,077 reviews",$284
+210,Pick A Flat's Apartements in Javel near Eiffel Tower - Rue de Javel,unrated,no review,$285
+211,Hotel Vacances Bleues Villa Modigliani,7.9,"2,706 reviews",$285
+212,Beautiful mini Loft near Saint-Lazare,7.2,13 reviews,$285
+213,ATN Hôtel,7.9,"1,650 reviews",$286
+214,Hôtel de Genève,7.4,"2,101 reviews",$286
+215,Hôtel Exquis by Elegancia,8.5,"1,389 reviews",$288
+216,Cosy 2 bedrooms apartment with bathrooms - Louvre,7.9,55 reviews,$288
+217,Pink Hotel,8.1,"1,105 reviews",$289
+218,Le Mireille,8.3,"2,276 reviews",$289
+219,VLH Montparnasse Eiffel,8.4,94 reviews,$290
+220,Hipotel Lilas Gambetta,7.7,"1,383 reviews",$290
+221,Hotel de Paris Montmartre,8.1,"3,129 reviews",$291
+222,Hotel Acadia - Astotel,8.6,617 reviews,$291
+223,Hotel Antin Trinité,7.0,"1,798 reviews",$291
+224,Hotel Jenner,7.8,"1,039 reviews",$291
+225,Makom Pereire,7.6,474 reviews,$292
+226,Comfort Hotel Nation Père Lachaise,6.9,"1,539 reviews",$292
+227,ibis Paris Ornano Montmartre Nord 18ème,7.3,"1,106 reviews",$293
+228,Green hotels Confort Paris 13,7.7,"1,251 reviews",$293
+229,Hotel Vacances Bleues Provinces Opera,8.2,"4,517 reviews",$294
+230,Cosmotel Hotel,8.4,"1,668 reviews",$294
+231,Grand Hotel Du Calvados,6.9,831 reviews,$294
+232,Hôtel de l'Exposition - République,6.7,927 reviews,$294
+233,ibis Paris Gare de Lyon Reuilly,7.9,997 reviews,$295
+234,Renewed and well-decorated apartment in Paris 12th,unrated,no review,$296
+235,Hôtel Saint-Charles,8.2,"4,254 reviews",$296
+236,Hotel Pilime,8.5,"1,345 reviews",$296
+237,Chouette Hotel,8.5,"1,785 reviews",$296
+238,Fred'Hotel,8.2,"1,512 reviews",$296
+239,Hôtel Crimée,5.8,594 reviews,$296
+240,Prince Albert Wagram,7.6,"1,347 reviews",$297
+241,Apartments WS Tour Eiffel - Nicolo,7.1,619 reviews,$297
+242,Best Western Le Montmartre – Saint Pierre,7.5,"1,780 reviews",$298
+243,ibis Styles Paris Meteor Avenue d'Italie,8.5,"7,572 reviews",$298
+244,Hotel 29 Lepic,8.0,"1,918 reviews",$298
+245,Hôtel Du Leman,7.3,55 reviews,$298
+246,ibis Styles Paris 16 Boulogne,8.3,"2,282 reviews",$299
+247,Apartments WS Champs-Elysées - Colomb,8.2,746 reviews,$300
+248,Apartments WS Grands Boulevards - Opera,7.2,251 reviews,$300
+249,Apartments WS Haussmann - La Fayette,7.4,834 reviews,$300
+250,Hôtel Mazagran,7.1,"1,962 reviews",$301
+251,Hotel Moulin Plaza,7.9,"2,745 reviews",$301
+252,Luxury 2 Bedroom & 2 Bathroom - Notre Dame,unrated,no review,$302
+253,Hôtel Du Midi Paris Montparnasse,8.2,"2,270 reviews",$302
+254,Boileau,7.8,548 reviews,$302
+255,Novotel Suites Paris Expo Porte de Versailles,8.5,"2,996 reviews",$303
+256,Convention Montparnasse,7.9,"1,705 reviews",$303
+257,Palym,8.2,"4,113 reviews",$303
+258,Hotel Monterosa - Astotel,8.6,596 reviews,$303
+259,Hôtel Aston,7.6,"2,763 reviews",$303
+260,ibis Styles Paris Tolbiac Bibliotheque,8.3,"2,196 reviews",$303
+261,Timhotel Nation,6.9,933 reviews,$303
+262,B&B HOTEL Paris 17 Batignolles,7.9,"11,997 reviews",$305
+263,Libertel Gare Du Nord Suede,7.9,"1,405 reviews",$305
+264,Résidence Sacré Coeur,9.7,4 reviews,$305
+265,Mercure Paris Opera Grands Boulevards,7.9,565 reviews,$306
+266,Unic Renoir Saint Germain,6.6,"1,418 reviews",$306
+267,Hotel Regina Montmartre,5.0,"1,080 reviews",$307
+268,Les Artistes,7.1,"1,377 reviews",$307
+269,Parc Hotel,7.6,"1,082 reviews",$307
+270,La Suite à Chatelet,7.9,19 reviews,$307
+271,Novotel Paris 17,7.8,"1,748 reviews",$307
+272,Hôtel Villa Bohème,8.3,"1,135 reviews",$308
+273,Luxury 2 bedroom - Marais & Louvre,7.9,9 reviews,$308
+274,Libertel Canal Saint Martin,7.8,"1,358 reviews",$308
+275,Best Western Plus Opéra Batignolles,8.0,"1,236 reviews",$309
+276,Best Western Plus Opéra Batignolles,8.0,"1,236 reviews",$309
+277,Hôtel 15 Montparnasse,8.3,651 reviews,$309
+278,Hotel Boronali,7.2,"1,369 reviews",$309
+279,Le Quartier Bercy-Square,8.3,"3,335 reviews",$310
+280,Hôtel Tilde,7.7,"2,903 reviews",$311
+281,Hôtel Paris Vaugirard,8.1,"4,302 reviews",$311
+282,Mercure Paris Gare de l'Est,8.0,"1,161 reviews",$312
+283,Hotel Restaurant Au Boeuf Couronné,8.4,"1,933 reviews",$312
+284,Luxury 2 bedroom Apartment with AC near Louvre,7.2,25 reviews,$312
+285,Hotel Le Clery,8.0,568 reviews,$313
+286,APPARTEMENT 15ième,7.4,19 reviews,$313
+287,Mercure Paris Pigalle Sacre Coeur,8.2,"1,060 reviews",$313
+288,Hotel The Playce by Happyculture,7.7,"2,204 reviews",$315
+289,Timhotel Odessa Montparnasse,7.7,"2,097 reviews",$315
+290,Acropole,8.4,547 reviews,$315
+291,CMG - Bonne nouvelle - Rex,8.5,2 reviews,$316
+292,Hôtel Noir,8.3,584 reviews,$316
+293,Agate Hôtel,8.2,"2,007 reviews",$317
+294,Coup de cœur à Montmartre,6.8,76 reviews,$317
+295,Le Relais Montmartre,9.0,"1,411 reviews",$317
+296,Hôtel le 209 Paris Bercy,8.3,"3,191 reviews",$317
+297,Hôtel Piapia,8.6,"2,805 reviews",$318
+298,Résidence du Pré,8.1,"2,650 reviews",$318
+299,Hôtel Basss,8.3,664 reviews,$318
+300,Eiffel Tower Royal Apartment,8.2,46 reviews,$318
+301,The ReMIX Hotel,8.1,"7,122 reviews",$319
+302,Hôtel des Métallos,7.8,759 reviews,$319
+303,Hotel Opéra d'Antin,7.8,"1,036 reviews",$319
+304,Hôtel Gérando,8.1,"2,331 reviews",$320
+305,Pick A Flat's Apartments in Champs Elysées - Rue du Colisée,8.7,115 reviews,$321
+306,Hôtel Beauquartier Moulin Rouge,8.1,423 reviews,$321
+307,Best Western Hotel Opéra Drouot,7.9,"1,717 reviews",$321
+308,Hotel Meslay Republique,8.0,"2,565 reviews",$322
+309,Le Robinet d'Or,8.9,"1,026 reviews",$322
+310,Trianon Gare de Lyon,7.5,"2,294 reviews",$322
+311,Hôtel des 3 Poussins,8.7,"1,610 reviews",$322
+312,Saphir Grenelle,7.1,"1,261 reviews",$322
+313,Hôtel Beauregard,8.4,400 reviews,$322
+314,Hotel Minerve,8.3,"2,513 reviews",$323
+315,Residhome Paris Gare de Lyon - Jacqueline de Romilly,8.1,"1,553 reviews",$323
+316,Best Western Hotel Le Montparnasse,7.2,"1,955 reviews",$323
+317,Timhotel Montmartre,8.3,"2,229 reviews",$323
+318,Hotel Ernest,8.8,"1,189 reviews",$323
+319,Hôtel de Sévigné,8.5,"1,720 reviews",$324
+320,Hotel Regence Paris,6.6,358 reviews,$324
+321,Panam Hotel PARIS GAMBETTA- Place Gambetta-Mairie du 20 emme,6.5,202 reviews,$324
+322,Timhotel Palais Royal,7.9,"1,126 reviews",$324
+323,ibis Paris Avenue de la Republique,8.0,691 reviews,$324
+324,OKKO Hotels Paris Rosa Parks,8.2,489 reviews,$325
+325,Amazing appartement - 8P - Le Bon Marché,unrated,31 external reviews,$325
+326,Central Hotel Paris,7.7,"1,490 reviews",$325
+327,Aparthotel Adagio Paris Montmartre,8.4,"3,028 reviews",$325
+328,Hotel Danemark,7.9,754 reviews,$325
+329,WAGRAM ARC DE TRIOMPHE PARIS,7.5,17 reviews,$325
+330,Villa Royale Montsouris,7.6,226 reviews,$326
+331,"Holiday Inn Paris Opéra - Grands Boulevards, an IHG Hotel",8.2,"1,362 reviews",$326
+332,Avalon Cosy Hotel Paris,8.3,"1,092 reviews",$326
+333,Novotel Paris 14 Porte d'Orléans,8.1,"4,190 reviews",$326
+334,L'Adresse,7.2,965 reviews,$326
+335,Hôtel Charing Cross,8.0,"1,948 reviews",$326
+336,Hotel Chabrol Opera,7.4,"1,462 reviews",$326
+337,Jardin de Villiers,8.4,497 reviews,$326
+338,Hôtel Quartier Latin,8.2,516 reviews,$326
+339,Maison Axel Opéra,8.5,896 reviews,$327
+340,Best Western Premier Faubourg 88,8.2,772 reviews,$327
+341,Hôtel Mondial,7.4,"2,120 reviews",$327
+342,Appartement Quartier Canal Saint Martin,8.8,4 reviews,$328
+343,Appartement Quartier Chatelet Les Halles,7.1,106 reviews,$328
+344,Appartement Quartier Montmartre 2,7.8,27 reviews,$328
+345,Appartement Quartier Republique,7.9,17 reviews,$328
+346,ibis Paris Place d’Italie 13ème,7.9,"1,713 reviews",$328
+347,Hotel Riviera Renovated,6.8,261 reviews,$329
+348,Hôtel Le Cardinal by Happyculture,8.1,"2,386 reviews",$329
+349,Cosy 3 bedroom 2 bathroom - Eiffel Tower,8.3,21 reviews,$329
+350,Alizé Grenelle Tour Eiffel,7.8,912 reviews,$329
+351,Montparnasse Alésia,8.1,"2,572 reviews",$329
+352,Timhotel Opéra Blanche Fontaine,8.0,"1,642 reviews",$330
+353,Adagio Paris 19ème Cité de la Musique,7.5,"1,623 reviews",$330
+354,Hotel Astoria - Astotel,8.4,"1,372 reviews",$330
+355,Hôtel La Parizienne,8.0,490 reviews,$331
+356,Résidence du Forum des Halles,7.9,539 reviews,$332
+357,Hotel Eiffel Segur,7.8,"2,277 reviews",$332
+358,Mercure Paris Porte De Versailles Expo,8.3,"1,883 reviews",$332
+359,Paris Bastille,8.2,"1,857 reviews",$332
+360,Hotel du Pré,8.3,"2,188 reviews",$332
+361,Timhotel Tour Eiffel,7.2,"1,468 reviews",$333
+362,Hôtel Eugénie,7.9,"1,826 reviews",$333
+363,Luxury 2 Bedroom 1 Bathroom - Louvre Museum & Opera,9.5,2 reviews,$334
+364,Hôtel Albert 1er Paris Lafayette,7.8,"1,152 reviews",$334
+365,Jardins de Montmartre,7.7,"1,737 reviews",$334
+366,Hotel Trema,8.0,"1,652 reviews",$334
+367,Hôtel Des Trois Gares,7.8,951 reviews,$334
+368,Amazing Résidence proche Galeries Lafayette,unrated,no review,$334
+369,Aparthotel Adagio Paris XV,6.8,"2,111 reviews",$334
+370,CAMBRONNE 2 TOUR EIFFEL PARIS,6.4,68 reviews,$335
+371,Residhotel Imperial Rennequin,8.7,490 reviews,$335
+372,Hôtel Prince Albert Concordia,8.3,"2,185 reviews",$335
+373,Hôtel Ambre,7.5,"2,192 reviews",$336
+374,ibis Paris Bastille Faubourg St Antoine,8.2,"1,662 reviews",$337
+375,Charmant haussmanien à Monceau,unrated,no review,$338
+376,ibis Paris Bastille Faubourg St Antoine,8.2,"1,662 reviews",$337
+377,Charmant haussmanien à Monceau,unrated,no review,$338
+378,"Holiday Inn Paris Gare de l'Est, an IHG Hotel",7.7,"5,931 reviews",$338
+379,Hôtel Aiglon,8.7,"1,463 reviews",$338
+380,Odalys City Paris XVII,7.5,"3,770 reviews",$338
+381,Hotel Imperial Paris,8.0,"1,323 reviews",$338
+382,Citadines République Paris,7.9,"2,202 reviews",$338
+383,Hotel Brady - Gare de l'Est,7.8,"2,518 reviews",$338
+384,Hôtel du Plat d'Etain,8.6,"3,224 reviews",$338
+385,Hôtel De La Herse d'Or,8.4,137 reviews,$338
+386,Amazing apartment 8P 3B,4.0,1 review,$339
+387,Joyful apartment 2BR6P Heart of Paris - Louvre,7.5,33 reviews,$340
+388,CMG - Tour Eiffel - 75,7.1,32 reviews,$340
+389,Apartments WS Opéra - Rossini,7.7,514 reviews,$341
+390,ibis Styles Paris Maine Montparnasse,7.7,724 reviews,$341
+391,Hotel George - Astotel,8.7,695 reviews,$341
+392,Hôtel du Parc Montparnasse,8.0,988 reviews,$342
+393,Apollinaire,8.2,"1,930 reviews",$342
+394,Hôtel Soft,7.7,"1,596 reviews",$296
+395,ibis Paris Montmartre Sacré-Coeur,7.2,"3,382 reviews",$342
+396,Beaugrenelle St-Charles Tour Eiffel,8.0,"1,078 reviews",$342
+397,Murat,7.5,"1,396 reviews",$342
+398,Castex Hotel,7.4,"1,198 reviews",$342
+399,Résidence Boulanger - République,unrated,13 external reviews,$343
+400,Novotel Paris Centre Bercy,8.4,"4,102 reviews",$343
+401,Hôtel des Comédies,8.1,"1,394 reviews",$343
+402,Hotel Paix Republique,8.2,"2,356 reviews",$344
+403,Best Western Bretagne Montparnasse,7.6,"1,038 reviews",$344
+404,Appart'Hotel Avalon,6.7,257 reviews,$344
+405,ibis Styles Paris Gare de l'Est TGV,7.8,"1,061 reviews",$344
+406,Aparthotel Adagio Paris Bercy Village,7.8,"1,877 reviews",$345
+407,"Holiday Inn Paris-Auteuil, an IHG Hotel",8.5,"1,254 reviews",$346
+408,Hôtel Gaillon Opera,7.6,"1,301 reviews",$346
+409,ibis Paris Opera La Fayette,7.8,"1,466 reviews",$346
+410,Best appartement in the center of Paris,8.9,47 reviews,$346
+411,Timhotel Tour Montparnasse,7.5,"1,575 reviews",$347
+412,Prince Albert Lyon Bercy,8.1,"2,174 reviews",$347
+413,Mercure Paris Bastille Marais,7.9,773 reviews,$347
+414,Luxury 2 Bedroom 2 Bathroom Louvre & Notre Dame,7.9,67 reviews,$347
+415,Happy Stay Paris - Bastille Family Apartment,unrated,83 external reviews,$347
+416,Avia Hôtel Saphir Montparnasse,7.8,"1,145 reviews",$347
+417,Hotel Aida Opera,8.2,"3,762 reviews",$347
+418,Montparnasse Daguerre,8.0,"1,878 reviews",$348
+419,Hotel Saint-Louis Pigalle,8.8,"2,214 reviews",$349
+420,Novotel Suites Paris Montreuil Vincennes,7.7,"5,415 reviews",$349
+421,Appart'City Collection Paris Grande Bibliothèque,7.3,"1,329 reviews",$349
+422,Hotel London,7.7,"1,996 reviews",$349
+423,Hotel Splendid,7.8,"1,484 reviews",$349
+424,Champerret Heliopolis,8.5,"1,013 reviews",$349
+425,ibis Paris Vaugirard Porte de Versailles,7.9,931 reviews,$349
+426,Hotel Aida Marais,7.8,"3,497 reviews",$350
+427,Hotel Paris Louis Blanc,8.2,"3,341 reviews",$350
+428,Hotel Monceau Wagram,7.3,"1,384 reviews",$350
+429,Chatelet les Halles Superb Appartment,8.9,12 reviews,$350
+430,ibis Styles Paris Nation Cours de Vincennes,7.8,800 reviews,$351
+431,CMG - Place des Vosges,8.5,4 reviews,$351
+432,Hôtel Crayon by Elegancia,7.9,637 reviews,$351
+433,Abaca Messidor by Happyculture,8.0,"2,916 reviews",$351
+434,Jack's Hotel,8.0,"1,168 reviews",$351
+435,9Hotel Bastille-Lyon,8.0,"1,956 reviews",$351
+436,Mercure Paris Montmartre Sacré Coeur,7.9,"2,001 reviews",$351
+437,My Opéra II,8.3,26 reviews,$352
+438,Hotel Du Beaumont,8.1,"1,471 reviews",$352
+439,Maison 46,8.2,"1,945 reviews",$352
+440,Hôtel Caron le Marais,8.7,684 reviews,$352
+441,Simon's Boutique Hôtel,8.1,"1,447 reviews",$352
+442,Hotel Alhambra,8.0,"3,959 reviews",$352
+443,Hôtel Des Arts-Bastille,8.0,"2,588 reviews",$352
+444,Hôtel de l'Avre,8.4,"1,210 reviews",$353
+445,Hôtel Veryste Paris,8.2,783 reviews,$354
+446,Hotel Lorette - Astotel,8.6,"1,800 reviews",$354
+447,Graphik Montparnasse,8.4,956 reviews,$354
+448,Apartments Tour Eiffel Alésia Paris centre,1.0,1 review,$355
+449,Novotel Paris Porte Versailles,8.5,"6,208 reviews",$356
+450,Le Grand Hôtel de Normandie,7.7,"1,381 reviews",$356
+451,Hotel Albe Bastille,8.2,"2,130 reviews",$356
+452,Hôtel Beaurepaire,7.4,668 reviews,$356
+453,Bob Hotel,8.3,"1,263 reviews",$356
+454,"voco Paris Montparnasse, an IHG Hotel",8.3,"3,304 reviews",$357
+455,R. Kipling by Happyculture,7.7,"1,221 reviews",$357
+456,Hotel Magenta 38 by Happyculture,8.1,"2,064 reviews",$357
+457,Hôtel L'Interlude,8.2,"2,074 reviews",$357
+458,ibis Maine Montparnasse,7.5,"1,624 reviews",$357
+459,Hôtel du Jardin des Plantes,7.6,"2,130 reviews",$358
+460,Apartments WS Louvre - Etienne Marcel,7.3,421 reviews,$358
+461,3 Suites appartement,8.9,83 reviews,$358
+462,Mercure Paris Gare du Nord,7.4,799 reviews,$358
+463,Hôtel Jeanne d'Arc Le Marais,7.9,"1,413 reviews",$358
+464,Hôtel Regina Opéra Grands Boulevards,7.6,"1,845 reviews",$359
+465,ibis Paris Tour Montparnasse 15eme,7.5,619 reviews,$359
+466,ibis Paris Gare de Lyon Ledru Rollin,8.1,"1,983 reviews",$359
+467,CMG Résidence Caire/ Saint-Denis,8.3,18 reviews,$360
+468,Hotel Korner Montparnasse,7.9,"1,478 reviews",$360
+469,Sublim by Sweet Inn,8.1,464 reviews,$360
+470,Hotel Geoffroy Marie Opéra,8.0,481 reviews,$361
+471,Mercure Paris Alesia,8.4,"1,812 reviews",$361
+472,Maison Barbès,8.2,"1,965 reviews",$362
+473,La Suite de Montorgueil,9.5,2 reviews,$362
+474,Hotel Saint Honore 85,7.4,"1,218 reviews",$362
+475,Hotel de Neuve by Happyculture,7.9,849 reviews,$362
+476,Staycity Aparthotels Paris Gare de l'Est,8.8,73 reviews,$363
+477,Hotel Ile de France Opéra,7.7,715 reviews,$363
+478,Hotel Louvre Bons Enfants,7.5,"1,977 reviews",$363
+479,Hôtel Etoile Trocadéro,8.2,"1,652 reviews",$364
+480,ibis Styles Paris République Le Marais,7.1,"1,149 reviews",$364
+481,ibis Paris Père Lachaise,8.0,681 reviews,$364
+482,Le 7ème ciel,Exceptional 9.6,29 external reviews,$365
+483,Hotel Villa Nicolo - Tour Eiffel,9.0,"1,200 reviews",$365
+484,ibis Paris Gare de Lyon Diderot,8.0,"2,080 reviews",$365
+485,Ibis Styles Hotel Paris Gare de Lyon Bastille,8.2,"1,634 reviews",$365
+486,Hôtel Sophie Germain,8.2,"1,058 reviews",$365
+487,Best Western Nouvel Orléans Montparnasse,7.8,"2,246 reviews",$366
+488,ibis Paris Bercy Village,8.1,"3,774 reviews",$366
+489,Ibis Styles Paris Massena Olympiades,8.2,"2,153 reviews",$366
+490,TRIBE Paris Batignolles,8.5,"1,646 reviews",$366
+491,Villathena,8.1,824 reviews,$366
+492,Mercure Paris Bercy Bibliothèque,8.3,"2,463 reviews",$366
+493,ibis Styles Paris Alesia Montparnasse,7.6,609 reviews,$367
+494,Hôtel Opéra Liège,8.7,988 reviews,$367
+495,Stella Etoile,8.1,"1,739 reviews",$368
+496,ibis Styles Paris Gare De Lyon TGV,8.3,924 reviews,$368
+497,Hotel Apolonia Paris Montmartre; Sure Hotel Collection by Best Western,8.1,"1,989 reviews",$368
+498,Best Stay Jeuneurs,8.4,523 reviews,$369
+499,Hôtel Henri IV Rive Gauche,8.4,"1,804 reviews",$369
+500,Citadines Montparnasse Paris,7.9,"1,498 reviews",$369
+501,Hôtel Arvor Saint Georges,8.4,814 reviews,$370
+502,Albert's Hotel,8.0,931 reviews,$370
+503,Motel One Paris-Porte Dorée,8.7,"6,882 reviews",$370
+504,Hôtel De La Porte Dorée,8.4,"3,072 reviews",$370
+505,Hotel Ascot Opera,8.1,"1,950 reviews",$370
+506,HOTEL DE PARIS MONTPARNASSE,7.9,"2,943 reviews",$370
+507,Royal Saint Germain,8.0,714 reviews,$370
+508,Suites & Hôtel Helzear Montparnasse,8.2,827 reviews,$371
+509,Novotel Paris 20 Belleville,8.3,"2,696 reviews",$371
+510,Ibis Styles Paris Gare de l'Est Magenta,7.8,"1,065 reviews",$371
+511,"Hotel Litteraire Marcel Ayme, BW Premier Collection",8.7,"1,794 reviews",$371
+512,"The Originals Boutique, Hôtel Maison Montmartre, Paris",7.7,"3,715 reviews",$371
+513,Citadines Bastille Marais Paris,7.9,"3,030 reviews",$372
+514,Citadines Bastille Gare de Lyon Paris,7.9,"2,666 reviews",$372
+515,Citadines Austerlitz Paris,8.2,"1,877 reviews",$372
+516,ibis Paris Grands Boulevards Opéra 9e,8.0,"2,077 reviews",$372
+517,XO Hotel Paris,8.8,891 reviews,$373
+518,Vice Versa,7.8,638 reviews,$373
+519,Mercure Paris Vaugirard Porte De Versailles,8.3,"1,950 reviews",$374
+520,Art Hotel Eiffel,8.2,"1,924 reviews",$375
+521,Hôtel Mistral,8.7,564 reviews,$375
+522,Apartments WS Champs Elysées - Ponthieu,7.1,501 reviews,$375
+523,Hôtel Garance,7.5,"1,229 reviews",$375
+524,Louvre Marsollier Opera,7.6,"1,262 reviews",$376
+525,Hotel Mademoiselle,8.1,850 reviews,$377
+526,Ampère,8.6,"1,692 reviews",$377
+527,L'Ouest Hotel,8.2,"1,885 reviews",$377
+528,Europe Hotel Paris Eiffel,8.0,"1,497 reviews",$377
+529,Hôtel Augustin - Astotel,8.7,"1,062 reviews",$379
+530,Hotel La Manufacture,8.3,"2,130 reviews",$379
+531,Hôtel La Nouvelle République & Hammam,8.6,"1,243 reviews",$379
+532,Villa Margaux Opéra Montmartre,7.9,"1,476 reviews",$380
+533,Oh la la ! Hotel Bar Paris Bastille,8.9,770 reviews,$381
+534,Tilsitt Etoile,8.4,"1,035 reviews",$381
+535,Hotel Flanelles Paris,8.3,162 reviews,$381
+536,Hôtel Les Deux Gares,8.3,844 reviews,$382
+537,Citadines Montmartre Paris,8.0,"2,283 reviews",$382
+538,Alba Opéra Hôtel,8.2,659 reviews,$382
+539,Midnight Hotel Paris,7.1,"1,092 reviews",$382
+540,Timhotel Opera Madeleine,7.6,"2,061 reviews",$382
+541,Aparthotel Adagio Access Paris Philippe Auguste,7.8,"1,203 reviews",$383
+542,"Hotel Apolonia Paris Mouffetard, Sure Hotel Collection by Best Western",8.3,"1,577 reviews",$383
+543,Grand Hôtel Amelot,8.1,"4,363 reviews",$383
+544,Appartement Quartier Bastille,7.5,34 reviews,$383
+545,Appartement Quartier Champs-Élysées 3,7.0,22 reviews,$383
+546,Appartement Quartier Opera,7.3,25 reviews,$383
+547,Le Nest by Sweet Inn,8.7,308 reviews,$383
+548,Le Général Hôtel,9.0,"1,184 reviews",$383
+549,Hôtel D'Alsace,7.5,779 reviews,$383
+550,Aparthotel Adagio Porte de Versailles,7.5,"3,451 reviews",$384
+551,Hotel Sacha,8.0,"1,269 reviews",$384
+552,Hotel Andréa,7.1,"1,525 reviews",$384
+553,Apart hotel Le Marais Centre de Paris,7.9,146 reviews,$384
+554,RESIDENCE MONTORGUEIL,7.8,155 reviews,$384
+555,Hôtel des Deux Avenues,7.3,"1,293 reviews",$385
+556,Le 20 Prieuré Hôtel,8.0,"1,176 reviews",$385
+557,Hôtel Des Mines,8.2,"1,168 reviews",$385
+558,Aparthotel Adagio Access Paris Reuilly,8.1,"2,117 reviews",$386
+559,Oceania Paris Porte De Versailles,8.0,"1,912 reviews",$386
+560,A 20 minutes à pied de l'Arc de Triomphe!,10,1 review,$387
+561,Hôtel Bonne Nouvelle,8.1,"2,338 reviews",$388
+562,Le Clos Medicis,7.9,717 reviews,$388
+563,Paris Home Collection Serviced Apartments in Opéra - Rue Saint-Lazare,9.6,9 reviews,$388
+564,Citadines Trocadéro Paris,8.4,"2,008 reviews",$388
+565,Grand Hotel Francais,8.5,693 reviews,$388
+566,Best Western Plus La Demeure,8.2,"1,194 reviews",$389
+567,Mercure Paris Gare Montparnasse,8.0,"1,627 reviews",$390
+568,Hotel Splendor Elysées,8.3,"1,490 reviews",$390
+569,Hotel Cervantes by Happyculture,8.5,"1,513 reviews",$390
+570,Hotel Le Mareuil,8.9,965 reviews,$390
+571,Hôtel Central Saint Germain,8.2,"1,122 reviews",$391
+572,Best Western Aramis Saint Germain,8.1,"1,675 reviews",$391
+573,Hotel Park Lane Paris,8.0,"1,795 reviews",$391
+574,Arc de Triomphe Etoile,8.1,"1,476 reviews",$392
+575,Happy Stay Paris - Loft Paris Center,8.0,1 review,$392
+576,Hotel Rendez-Vous Batignolles,8.6,"1,395 reviews",$392
+577,Hôtel Elysées Paris,7.3,69 reviews,$392
+578,Hôtel du Théâtre by Patrick Hayat,8.1,391 reviews,$392
+579,Best Western Plus Hôtel Mercedes,8.6,515 reviews,$392
+580,Hôtel Océanic - Grands Magasins,8.6,"1,246 reviews",$393
+581,Grand Hotel Chicago,8.5,982 reviews,$393
+582,La Finca Hôtel & Spa,8.6,"1,200 reviews",$393
+583,ibis Styles Paris Cadet Lafayette,8.1,985 reviews,$393
+584,Hôtel Montparnasse Saint Germain,8.0,"1,457 reviews",$393
+585,Hotel Beauvoir,7.7,940 reviews,$394
+586,Hotel Michelet Odeon,7.9,754 reviews,$394
+587,Luxury 2 Bedroom With Balcony - Louvre & Notre Dame,7.8,25 reviews,$394
+588,Grand Hotel Lafayette,8.2,"1,583 reviews",$394
+589,Hotel Les Bulles De Paris,8.0,"2,593 reviews",$394
+590,Timhotel Invalides Eiffel,7.7,873 reviews,$394
+591,Hôtel Cabane - Orso Hotels,8.5,983 reviews,$394
+592,Le Marais Superb Apartment Terrace Paris,8.6,10 reviews,$394
+593,Mercure Paris Gare De Lyon Opera Bastille,8.1,"1,352 reviews",$395
+594,ibis Styles Paris Bercy,7.4,"8,432 reviews",$395
+595,Appart'City Collection Paris Gare de Lyon,9.0,287 reviews,$395
+596,Cozy 1 Mezzanine & 1Bedroom Louvre Moulins Free Netflix,6.7,103 reviews,$395
+597,Les Champs Elysées-125m2 Modern and Spacious,10,1 review,$395
+598,Five Boutique Hotel Paris Quartier Latin,7.6,953 reviews,$395
+599,Courcelles Médéric,7.8,713 reviews,$396
+600,"Luxury 2 Bedroom 2,5 Bathroom - Louvre & Notre Dame",6.8,14 reviews,$396
+601,ibis Styles Paris 15 Lecourbe,7.8,608 reviews,$396
+602,Mercure Paris Opéra Faubourg Montmartre,7.9,800 reviews,$396
+603,Zoku Paris,9.0,770 reviews,$397
+604,Gardette Park Hotel,8.0,"1,164 reviews",$397
+605,Elysées Hôtel,7.0,"1,486 reviews",$397
+606,Hôtel Félicien by Elegancia,7.9,"1,048 reviews",$398
+607,Magda Champs Elysées,8.5,"2,288 reviews",$398
+608,Windsor Opera,8.7,318 reviews,$398
+609,Hôtel de France Gare de Lyon Bastille,8.6,"2,412 reviews",$398
+610,Hôtel Poussin,7.0,387 reviews,$398
+611,Hôtel Odyssey by Elegancia,8.0,"1,120 reviews",$399
+612,Hotel Claude Bernard Saint-Germain,7.8,"1,359 reviews",$400
+613,Apartments WS Louvre - Richelieu,7.7,"1,831 reviews",$400
+614,Georgette Hôtel & Restaurant,8.2,790 reviews,$400
+615,Le Ferdinand - Le Marais Serviced Apartments,8.3,367 reviews,$400
+616,Novotel Paris Vaugirard Montparnasse,8.1,"1,798 reviews",$401
+617,Ibis Paris Gare Montparnasse 15ème,7.3,562 reviews,$401
+618,Hôtel Le M,8.0,"1,449 reviews",$402
+619,New Hotel Le Voltaire,8.0,"1,188 reviews",$402
+620,Hotel Taylor,8.7,"3,129 reviews",$402
+621,Hôtel Cordelia Opéra-Madeleine,8.3,"1,004 reviews",$402
+622,Madrigal,8.4,"1,398 reviews",$403
+623,Mercure Paris Montparnasse Pasteur,7.8,767 reviews,$403
+624,Apartments WS Hôtel de Ville - Musée Pompidou,7.3,604 reviews,$403
+625,Hotel Palm - Astotel,8.9,"1,063 reviews",$404
+626,Hôtel Henriette,8.9,871 reviews,$404
+627,Okko Hotels Paris Porte De Versailles,8.4,"1,203 reviews",$405
+628,Grand Hotel du Loiret,8.0,"1,960 reviews",$405
+629,Hotel Elysa-Luxembourg,8.5,"1,987 reviews",$405
+630,Acacias Etoile,8.4,"2,126 reviews",$406
+631,Eiffel Kennedy,8.2,"1,223 reviews",$406
+632,Tonic Hotel Saint Germain des Prés,7.0,761 reviews,$407
+633,Hotel 34B - Astotel,8.8,"2,262 reviews",$408
+634,Hôtel Derby Eiffel,7.9,701 reviews,$408
+635,Hôtel Beaubourg,8.2,475 reviews,$408
+636,Hôtel du Parc Montsouris,7.7,"1,107 reviews",$408
+637,ibis Paris Bastille Opera,8.0,"4,263 reviews",$409
+638,Hôtel Diva Opera,8.1,"1,661 reviews",$409
+639,Best Western Plus Quartier Latin Pantheon,7.8,"2,155 reviews",$409
+640,Hôtel Bienvenue,7.9,355 reviews,$410
+641,Appartement Quartier Le Marais 1,8.3,54 reviews,$410
+642,Citadines Place d'Italie Paris,7.9,"2,889 reviews",$410
+643,Appartement Quartier Montparnasse,7.2,41 reviews,$410
+644,Hôtel Le 46,8.4,"1,098 reviews",$411
+645,Grand Hôtel Dechampaigne,7.7,"1,841 reviews",$411
+646,Serotel Lutèce,8.5,"2,400 reviews",$412
+647,Novotel Paris Centre Gare Montparnasse,8.1,"2,599 reviews",$412
+648,Carladez Cambronne,7.6,"2,039 reviews",$412
+649,Hôtel R de Paris - Boutique Hotel,8.7,708 reviews,$412
+650,Hôtel Saint Martin Bastille,8.5,"2,204 reviews",$413
+651,HOTEL AU COEUR DES ARTS ET METIERS,8.1,"1,631 reviews",$413
+652,HOTEL AU COEUR DE REPUBLIQUE,8.0,854 reviews,$413
+653,Arc De Triomphe,8.0,710 reviews,$413
+654,Hôtel Brésil Opéra SPA,8.2,"2,687 reviews",$413
+655,Le Katorze Hôtel,8.4,"1,141 reviews",$413
+656,Hôtel des 3 Collèges,8.0,907 reviews,$414
+657,Hotel OFF Paris Seine,8.4,"2,176 reviews",$415
+658,Kraft Hotel,9.2,9 reviews,$415
+659,Idol Hotel,8.7,567 reviews,$416
+660,One-of-a-Kind Spacious Home in Le Marais,8.0,3 reviews,$416
+661,Hotel Scarlett,8.1,"1,255 reviews",$416
+662,Hotel du Lys,7.7,"1,601 reviews",$416
+663,25hours Hotel Terminus Nord,8.4,"2,788 reviews",$417
+664,La Villa des Ternes,8.2,857 reviews,$417
+665,Hotel Joke - Astotel,9.0,"1,191 reviews",$417
+666,Hotel Joyce - Astotel,8.8,978 reviews,$417
+667,Queen Mary Opera,8.4,"1,030 reviews",$417
+668,Hotel 10 Opéra by HappyCulture,8.2,"1,797 reviews",$417
+669,Le Paris Singulier,8.6,111 reviews,$417
+670,Hotel Habituel,7.5,758 reviews,$417
+671,Le 123 Elysees - Astotel,8.8,638 reviews,$418
+672,Serotel Suites Opera,8.4,366 reviews,$418
+673,Hôtel Victoria Châtelet,7.7,"1,708 reviews",$418
+674,Mercure Paris 17 Batignolles,8.2,"1,268 reviews",$420
+675,Marmotel Etoile,7.5,"1,296 reviews",$421
+676,Hôtel Elixir,7.6,"1,297 reviews",$421
+677,Villa des Ambassadeurs,7.8,737 reviews,$421
+678,Mercure Paris Bastille Saint Antoine,7.8,435 reviews,$422
+679,Monceau Elysées,8.5,"1,141 reviews",$422
+680,Hôtel Le Marcel Paris Gare de l'Est,7.6,928 reviews,$424
+681,Maison Malesherbes,8.6,560 reviews,$424
+682,"Holiday Inn Paris Montmartre, an IHG Hotel",8.3,978 reviews,$425
+683,Hotel Panache,8.4,481 reviews,$425
+684,Hôtel AMI - Orso Hotels,8.5,"1,042 reviews",$425
+685,Hôtel Louvre Richelieu,8.5,943 reviews,$425
+686,Hôtel Raspail Montparnasse,8.2,"1,251 reviews",$425
+687,Ibis Styles Paris Gare Saint Lazare,8.0,"1,271 reviews",$426
+688,Le Grand Quartier,8.7,"1,393 reviews",$427
+689,Apartments WS Marais - République,7.8,520 reviews,$427
+690,2 Bedrooms Le Marais Nazareth,7.3,108 reviews,$427
+691,Mercure Paris Gare Montparnasse TGV,7.7,"7,440 reviews",$427
+692,Luxury résidence in Le Marais,Exceptional 10,7 external reviews,$428
+693,Hotel Etoile Saint Ferdinand by Happyculture,8.0,"1,733 reviews",$428
+694,Cozy Room nearby Champs Elysées,6.3,8 reviews,$428
+695,Sonder Quintinie,8.4,354 reviews,$428
+696,Austin's Arts Et Metiers Hotel,8.1,"1,951 reviews",$429
+697,Pavillon Opéra Grands Boulevards,7.5,544 reviews,$429
+698,Hotel Monsieur & Spa,8.4,"1,247 reviews",$429
+699,Hôtel Delavigne,8.9,"1,936 reviews",$429
+700,Seven Hotel,8.9,"1,393 reviews",$430
+701,Best Western Empire Elysees,8.1,"4,889 reviews",$430
+702,Best Western Premier Trocadero La Tour,8.0,669 reviews,$430
+703,Hôtel Paris Louvre Opéra,8.2,"1,041 reviews",$430
+704,Hotel Des Arenes,8.1,"3,346 reviews",$430
+705,Rose Bourbon,8.3,"1,416 reviews",$430
+706,Hotel Archetype Etoile,8.6,"1,018 reviews",$432
+707,Hotel Opéra Marigny,8.1,"1,175 reviews",$433
+708,Le Relais du Marais,8.0,"1,044 reviews",$433
+709,Hotel Odeon Saint-Germain,7.9,439 reviews,$433
+710,Hôtel A La Villa des Artistes,8.6,"1,555 reviews",$433
+711,Hôtel Perreyve - Jardin du Luxembourg,8.0,"1,053 reviews",$433
+712,Hotel Paradis,8.2,503 reviews,$433
+713,Hôtel le Clos de Notre Dame,7.9,805 reviews,$434
+714,Apartments WS Louvre - Sainte-Anne,7.9,324 reviews,$435
+715,Mercure Paris Place d'Italie,7.8,777 reviews,$436
+716,Hôtel 31 - Paris Tour Eiffel,8.6,"4,309 reviews",$436
+717,Hôtel Jardin Le Bréa,8.5,390 reviews,$437
+718,OKKO Hotels Paris Gare de l'Est,8.3,"3,056 reviews",$438
+719,Pavillon Monceau,7.9,"1,695 reviews",$438
+720,Appartement Quartier Parc Monceau,8.4,21 reviews,$438
+721,Le Grey Hotel,8.6,"1,832 reviews",$439
+722,Amiral Hôtel,7.4,"2,724 reviews",$439
+723,La Villa Royale,7.2,"1,327 reviews",$440
+724,Mercure Paris Montparnasse Raspail,8.1,595 reviews,$441
+725,New Hotel Lafayette,7.8,"1,408 reviews",$441
+726,ibis styles Paris Montmartre Batignolles,7.9,"1,626 reviews",$442
+727,Residence Inn by Marriott Paris Didot Montparnasse,8.4,209 reviews,$442
+728,BE YOU LUXURY APART'HÔTEL Paris,8.6,405 reviews,$444
+729,Hotel de l'Aqueduc,7.2,"3,759 reviews",$444
+730,Hôtel Le Beaugency,8.2,"1,630 reviews",$444
+731,Romance Malesherbes by Patrick Hayat,7.6,381 reviews,$444
+732,La Belle Ville,8.7,"2,715 reviews",$444
+733,Moxy Paris Bastille,8.0,"1,654 reviews",$445
+734,Classics Hotel Bastille,7.8,"1,608 reviews",$446
+735,Hotel Sleeping Belle,8.7,"1,624 reviews",$447
+736,Verlain,7.8,"1,235 reviews",$447
+737,Hôtel International Paris,8.3,761 reviews,$447
+738,Hotel Delambre,8.2,573 reviews,$447
+739,French Theory,8.4,"2,209 reviews",$448
+740,Hôtel Joe M,8.4,"1,615 reviews",$448
+741,Hôtel du Triangle d'Or,8.6,"1,163 reviews",$448
+742,Luxury Living à Montorgueil,10,2 reviews,$450
+743,Grand Hôtel de L'Univers Saint-Germain,8.8,"2,642 reviews",$450
+744,Hotel Left Bank Saint Germain,8.7,"1,095 reviews",$450
+745,Hotel Choiseul Opera,8.4,"4,799 reviews",$450
+746,Crystal Hotel,8.0,907 reviews,$450
+747,Hôtel Pastel Paris,8.3,633 reviews,$452
+748,Hotel Miramar,8.0,"2,480 reviews",$452
+749,Hôtel de Sèvres,8.1,320 reviews,$452
+750,Arioso,8.7,"1,381 reviews",$453
+751,Hôtel Wallace - Orso Hotels,8.5,608 reviews,$453
+752,Austin's Saint Lazare Hotel,8.1,"2,443 reviews",$453
+753,Mama Shelter Paris West,8.4,"1,798 reviews",$454
+754,Pullman Paris Centre - Bercy,8.3,"1,898 reviews",$454
+755,Hôtel Regent's Garden - Astotel,8.9,857 reviews,$454
+756,Les Jardins De La Villa,8.6,939 reviews,$454
+757,Hotel Paris Opera Affiliated by Meliá,7.4,420 reviews,$454
+758,Pick A Flat's Apartment in Saint Michel - Rue Du Sommerard,7.6,169 reviews,$455
+759,Residhome Paris Opéra,7.5,669 reviews,$455
+760,Hôtel Malar,7.0,607 reviews,$455
+761,Hotel d'Espagne,8.1,"1,466 reviews",$456
+762,Star Champs-Elysées,8.7,780 reviews,$456
+763,Hôtel Du Prince Eugène,8.4,"1,595 reviews",$456
+764,Best Western Opéra Faubourg,7.8,"1,920 reviews",$456
+765,Hotel Opéra Opal,8.5,859 reviews,$458
+766,Hotel Whistler,8.5,"1,412 reviews",$458
+767,Hôtel Oratio,8.8,"1,500 reviews",$458
+768,Hotel De Suede Saint Germain,8.6,191 reviews,$458
+769,Marais Lovely,8.9,329 reviews,$458
+770,Hilton Garden Inn Paris La Villette,8.7,173 reviews,$459
+771,Mercure Paris Notre Dame Saint Germain des Prés,8.0,672 reviews,$460
+772,Handsome Hotel By Elegancia,8.3,"1,042 reviews",$461
+773,Hôtel Bedford,8.3,"2,407 reviews",$461
+774,Le Bellune Paris,8.7,"1,507 reviews",$461
+775,Les Tournelles,8.8,970 reviews,$461
+776,New Orient Hotel,8.7,944 reviews,$461
+777,Hôtel des Ducs D'Anjou,7.4,"1,253 reviews",$463
+778,Victoires Opera,7.6,602 reviews,$463
+779,Hôtel de La Boétie,8.9,57 reviews,$463
+780,Hôtel Du Bois Champs-Elysées,8.0,"2,085 reviews",$464
+781,Hôtel La Conversation,8.2,925 reviews,$464
+782,ibis Styles Paris Eiffel Cambronne,7.7,"1,240 reviews",$464
+783,Hotel Fontaines du Luxembourg,8.5,909 reviews,$466
+784,Hôtel Magellan,8.7,"1,243 reviews",$466
+785,Mercure Paris 15 Porte de Versailles,7.8,303 reviews,$467
+786,Hotel Elysée Secret,7.2,830 reviews,$469
+787,26 Faubourg - Ex-Hotel de Reims,7.9,754 reviews,$469
+788,Hôtel Rosalie,8.7,"1,624 reviews",$470
+789,Odalys City Paris Montmartre,8.7,"2,682 reviews",$470
+790,Hotel & Spa Saint-Jacques,8.3,"1,505 reviews",$471
+791,Maison Saintonge,8.4,564 reviews,$471
+792,Hotel de Flore - Montmartre,8.6,"2,919 reviews",$471
+793,Hôtel Harvey,8.5,522 reviews,$471
+794,Hotel de France Invalides,7.8,"1,518 reviews",$472
+795,Courtyard by Marriott Paris Gare de Lyon,8.5,"1,822 reviews",$472
+796,TOUR EIFFEL BEAUGRENELLE CONVENTION PARIS,7.1,11 reviews,$473
+797,Mercure Paris Gare De Lyon TGV,8.0,"2,696 reviews",$474
+798,Hotel Les Théâtres,7.9,591 reviews,$474
+799,Hotel Massena,7.8,869 reviews,$474
+800,Dauphine Saint Germain,7.9,975 reviews,$474
+801,Sonder Le Frochot,7.5,707 reviews,$476
+802,101 - Urban Centre Pompidou,6.1,21 reviews,$478
+803,Moris Grands Boulevards,8.7,"2,212 reviews",$480
+804,Hôtel Palais De Chaillot,8.7,791 reviews,$480
+805,Hotel Bridget,8.0,"1,103 reviews",$480
+806,Hôtel Eden Opéra,8.2,806 reviews,$480
+807,Hôtel Beauchamps,7.3,"1,740 reviews",$481
+808,Hôtel Maxim Folies,8.6,"1,568 reviews",$481
+809,Hôtel De Castiglione,7.5,"3,711 reviews",$483
+810,Hôtel Vendome Saint-Germain,8.6,"2,045 reviews",$483
+811,Maison Eugenie,8.1,552 reviews,$483
+812,Elysées Ceramic,8.3,"4,068 reviews",$484
+813,Ibis Styles Paris Pigalle Montmartre,7.3,382 reviews,$484
+814,Hôtel Madeleine Haussmann,8.2,"1,124 reviews",$485
+815,Hôtel Albe Saint Michel,8.5,"3,271 reviews",$486
+816,My Cottage in Paris,9.5,22 reviews,$487
+817,Hôtel Le Milie Rose,9.1,"2,311 reviews",$487
+818,Hotel Petit Lafayette,8.7,"1,453 reviews",$487
+819,Villa Eiffel Mademoiselle,8.4,797 reviews,$487
+820,Hotel Des Deux Continents,8.0,"1,509 reviews",$488
+821,Hotel Camille Paris Tapestry Collection by Hilton,7.9,184 reviews,$489
+822,Novotel Paris Centre Tour Eiffel,7.4,"6,044 reviews",$490
+823,Hôtel Hélios Opéra,8.3,"1,010 reviews",$490
+824,citizenM Paris Gare de Lyon,8.3,"10,162 reviews",$491
+825,Hotel Yllen Eiffel,8.8,"2,552 reviews",$491
+826,Régence Etoile,8.5,"1,151 reviews",$491
+827,Auteuil Tour Eiffel,8.3,"1,936 reviews",$491
+828,Hotel Touraine Opera,8.9,"2,300 reviews",$491
+829,Hôtel Léopold - Orso Hotels,8.5,"1,047 reviews",$492
+830,Hotel Monsieur Helder,8.1,686 reviews,$493
+831,Hotel Suites Unic Renoir Saint-Germain,7.1,272 reviews,$493
+832,Aparthotel Adagio Paris Nation,8.4,"2,061 reviews",$493
+833,Hotel Aulivia Opéra,8.0,"1,036 reviews",$494
+834,Folkestone Opéra,8.3,"1,175 reviews",$494
+835,Luxury 4 Bedrooms 3 Bathrooms Apartment - Opera Louvre,7.0,7 reviews,$494
+836,Hôtel Hor Europe,8.8,"2,712 reviews",$495
+837,Atala powered by Sonder,8.1,"1,106 reviews",$496
+838,Yuna Les Halles - Serviced Apartments,8.8,357 reviews,$496
+839,Le Bailli,8.0,"1,004 reviews",$498
+840,Hôtel Les Deux Girafes,9.0,720 reviews,$498
+841,Hotel de la Bretonnerie,8.1,660 reviews,$499
+842,Monsieur Cadet Hotel & Spa,8.7,976 reviews,$500
+843,Hôtel Plaza Étoile,8.2,"1,347 reviews",$500
+844,Best Western Ronceray Opéra,7.7,"1,148 reviews",$501
+845,Hôtel de Notre-Dame,8.2,963 reviews,$501
+846,"Hotel Litteraire Le Swann, BW Premier Collection",8.4,"2,321 reviews",$502
+847,Hôtel Marais Bastille,8.4,762 reviews,$503
+848,Mercure Paris Opera Lafayette,7.4,161 reviews,$504
+849,Hyatt Regency Paris Etoile,8.3,"3,779 reviews",$504
+850,Floride-Etoile,8.5,"1,127 reviews",$504
+851,Hôtel Vic Eiffel,8.8,"1,313 reviews",$504
+852,Hôtel Londres et New York - Teritoria,8.0,343 reviews,$504
+853,1K Paris,7.5,851 reviews,$504
+854,Hotel Eden,8.4,"1,421 reviews",$505
+855,Hôtel des Arts Montmartre,9.6,"3,219 reviews",$505
+856,Hotel Caumartin Opéra - Astotel,8.0,"1,092 reviews",$505
+857,Hôtel De l'Arcade,8.3,"1,298 reviews",$505
+858,Hôtel La Canopée,9.0,"1,174 reviews",$505
+859,Hôtel de Bellevue Paris Gare du Nord,8.1,536 reviews,$505
+860,Le 123 Sébastopol - Astotel,9.0,"1,439 reviews",$506
+861,Hôtel Eiffel Saint Charles,8.9,"1,579 reviews",$507
+862,Hôtel Atlantis,7.9,"1,245 reviews",$507
+863,Hôtel Crayon Rouge by Elegancia,8.4,507 reviews,$507
+864,Hotel Le petit Paris,8.6,519 reviews,$508
+865,Hotel Orphée - Orso Hotels,8.1,"1,271 reviews",$510
+866,Hôtel de la Motte Picquet,8.6,773 reviews,$510
+867,Hotel Fior d'Aliza,9.1,661 reviews,$512
+868,Villa Alessandra,8.0,730 reviews,$513
+869,Hotel Louison,8.5,894 reviews,$513
+870,Villa Montparnasse,7.7,954 reviews,$516
+871,Hotel L’Antoine,8.4,"1,317 reviews",$516
+872,Chalgrin Boutique Hotel,8.1,"1,294 reviews",$517
+873,Hôtel de Varenne,8.4,600 reviews,$518
+874,Snob Hotel by Elegancia,8.4,696 reviews,$518
+875,Hotel Le Friedland,8.6,819 reviews,$520
+876,Odéon - Notre Dame Paris Climatisé-Wifi,9.2,300 reviews,$521
+877,Hôtel Volney Opéra,8.3,"2,096 reviews",$521
+878,Royal Garden Champs-Élysées,8.5,384 reviews,$521
+879,Hôtel Gramont,8.6,"1,203 reviews",$521
+880,Hôtel du Danube Saint Germain,8.5,902 reviews,$522
+881,Hotel Marais Grands Boulevards,8.1,"1,323 reviews",$523
+882,Hôtel Toujours & Spa,8.2,843 reviews,$523
+883,Hôtel Maxim Opéra,8.4,853 reviews,$523
+884,La Villa Haussmann,8.9,"1,566 reviews",$524
+885,Hotel Ares Eiffel,8.3,"1,419 reviews",$525
+886,Hôtel le Royal Rive Gauche,8.5,"1,071 reviews",$525
+887,Hôtel Londres Saint Honoré,8.1,"2,026 reviews",$526
+888,Arc de Triomphe Superbe Appartement Paris,8.3,23 reviews,$526
+889,Hôtel Belloy Saint Germain,8.0,685 reviews,$527
+890,Hôtel Marais Hôme,8.2,"1,236 reviews",$527
+891,Le Citizen Hotel,8.7,548 reviews,$527
+892,Apart hotel Louvre Centre de Paris (Pélican),6.5,41 reviews,$527
+893,Mom'Art Hotel,8.9,910 reviews,$527
+894,Hotel Elysees Opera,8.5,567 reviews,$529
+895,Hôtel Thoumieux,8.5,367 reviews,$530
+896,Suites & Hôtel Helzear Champs-Elysées,8.2,"1,393 reviews",$530
+897,Hotel des Académies et des Arts,8.9,448 reviews,$530
+898,Grand Hôtel Malher,8.4,654 reviews,$530
+899,Hotel de la Paix Tour Eiffel,8.3,923 reviews,$531
+900,Hôtel Le Bellechasse Saint-Germain,8.6,928 reviews,$531
+901,PLEY Hotel,8.3,"1,273 reviews",$531
+902,Maison Mère,9.0,"1,014 reviews",$532
+903,"Hôtel Littéraire Arthur Rimbaud, BW Signature Collection",8.0,"1,467 reviews",$532
+904,Hotel Armoni Paris,8.1,"1,846 reviews",$533
+905,Golden Tulip Opera de Noailles,8.5,"1,885 reviews",$533
+906,B Montmartre,8.9,"2,512 reviews",$533
+907,Hôtel Gabriel Paris,8.4,849 reviews,$534
+908,Paris Art Hotel Quartier Latin by Malone,8.5,"1,066 reviews",$534
+909,Queens Boutique Hotel,8.5,553 reviews,$534
+910,Hôtel Monsieur Aristide,9.0,678 reviews,$536
+911,Artemisia Montmartre,8.7,98 reviews,$536
+912,Hotel Ekta Champs Elysées,8.8,"1,278 reviews",$537
+913,Hôtel Le Compostelle,8.0,"1,212 reviews",$537
+914,Paris France Hotel,8.6,"2,303 reviews",$539
+915,"Hôtel Capfun Le Saint Germain, Paris",8.2,725 reviews,$539
+916,HOTEL SOOKIE,8.7,452 reviews,$540
+917,Leonardo Boutique Hotel Paris Opera previously Hotel Prelude Opera,8.7,"3,370 reviews",$541
+918,Citadines Opéra Paris,8.2,758 reviews,$542
+919,Kube Hotel Paris - Ice Bar,7.9,497 reviews,$542
+920,Hôtel Fabric,9.2,"1,116 reviews",$542
+921,Lovely haussmannian flat in Montparnasse,9.0,2 reviews,$543
+922,Hôtel Eiffel Turenne,8.6,"1,535 reviews",$543
+923,Appartement familiale sauna Paris 10 - 8P,10,4 reviews,$543
+924,Villa Lutèce Port Royal,7.2,"1,052 reviews",$545
+925,Hôtel Le Colisée,8.0,911 reviews,$545
+926,Dream Hôtel Opéra & Spa,8.1,872 reviews,$545
+927,Hotel de L'Empereur by Malone,8.6,957 reviews,$545
+928,Hotel Relais Bosquet by Malone,8.7,"1,033 reviews",$545
+929,Golden Tulip Washington Opera,8.4,"1,180 reviews",$546
+930,Hôtel Esté,8.7,437 reviews,$548
+931,YOOMA Urban Lodge,8.2,"4,253 reviews",$548
+932,Excelsior Opera,8.5,562 reviews,$548
+933,Le Malown,7.8,"1,202 reviews",$548
+934,Hôtel Jacques De Molay,8.3,"1,349 reviews",$549
+935,Nice and cozy 1b apartment in the heart of Paris,8.1,22 reviews,$549
+936,Hôtel Bassano,8.3,809 reviews,$549
+937,Mercure Paris Tour Eiffel Pont Mirabeau,7.6,367 reviews,$550
+938,Hôtel Duo,8.3,815 reviews,$550
+939,Belfast,7.6,"1,054 reviews",$550
+940,Hôtel Maxim Quartier Latin,8.2,"1,607 reviews",$551
+941,Aparthotel Adagio Paris Centre Tour Eiffel,7.3,"2,703 reviews",$552
+942,Hôtel Prince de Conti,7.6,285 reviews,$552
+943,Le Tsuba Hotel,8.8,"1,378 reviews",$552
+944,Hôtel du Levant,8.4,"2,241 reviews",$554
+945,Le Patio Bastille,8.2,"1,969 reviews",$555
+946,Hotel Muguet,9.0,809 reviews,$556
+947,Melia Paris Champs Elysées,7.5,315 reviews,$556
+948,"Holiday Inn Paris - Gare de Lyon Bastille, an IHG Hotel",8.5,"2,397 reviews",$557
+949,citizenM Paris Champs-Élysées,8.5,"2,682 reviews",$557
+950,citizenM Paris Opera,8.7,306 reviews,$557
+951,Le Belleval,8.7,"1,032 reviews",$557
+952,Hôtel de la Place du Louvre - Esprit de France,7.9,253 reviews,$558
+953,Hôtel Amoi Paris,8.8,748 reviews,$560
+954,Doisy Etoile - Orso Hotels,8.1,661 reviews,$560
+955,Les Plumes Hotel,8.3,450 reviews,$560
+956,Hôtel Relais Monceau,7.8,870 reviews,$560
+957,Cler Hotel,8.8,"1,101 reviews",$560
+958,HOTEL DU PRINTEMPS,7.8,"1,817 reviews",$560
+959,Longchamp Elysées,8.5,"1,043 reviews",$560
+960,Hotel Elysees 8,8.6,442 reviews,$560
+961,Hôtel de Banville,8.8,"1,394 reviews",$563
+962,Best Western Plus Hotel Sydney Opera,9.0,"1,543 reviews",$563
+963,Etoile Park Hotel,7.5,"2,028 reviews",$563
+964,Hotel Paradiso,8.7,543 reviews,$563
+965,Grand Hotel Saint Michel,8.2,"1,112 reviews",$564
+966,Le Senat,8.2,536 reviews,$565
+967,Hotel Saint Christophe,8.5,"1,684 reviews",$565
+968,Hôtel B55,8.6,879 reviews,$566
+969,Hôtel Le Tourville by Inwood Hotels,8.6,429 reviews,$566
+970,Marceau Champs-Elysées,8.1,"1,116 reviews",$566
+971,Hotel Rochechouart - Orso Hotels,8.5,"1,656 reviews",$568
+972,Hotel Louis II,8.9,407 reviews,$568
+973,Le Rayz Vendome,8.6,"1,238 reviews",$569
+974,"Holiday Inn Paris Elysées, an IHG Hotel",8.4,683 reviews,$570
+975,Au Manoir Saint Germain,8.4,750 reviews,$570
+976,Hotel le Lapin Blanc,8.6,694 reviews,$570
+977,Hôtel Galileo Champs Elysées,8.5,"1,638 reviews",$570
+978,Novotel Paris Gare De Lyon,8.3,880 reviews,$570
+979,Mode Paris Aparthotel,9.1,307 reviews,$570
+980,Hôtel Chateaubriand,7.9,326 reviews,$570
+981,Hotel Eiffel Blomet,8.7,"2,489 reviews",$571
+982,Passy Eiffel,8.4,"1,347 reviews",$572
+983,ibis Styles Paris Opera Lafayette,8.1,308 reviews,$573
+984,Hotel Saint-Louis Marais,8.8,"1,257 reviews",$573
+985,Hôtel Louvre Piemont,8.6,901 reviews,$576
+986,Luxury 5 Bedrooms 3 Bathrooms Apartment - Opera,9.3,3 reviews,$576
+987,Hôtel du Continent,8.5,647 reviews,$577
+988,Hotel Pulitzer Paris,8.9,216 reviews,$578
+989,Royal Saint Michel,8.0,"1,544 reviews",$578
+990,Hôtel Victor Hugo Paris Kléber,8.4,809 reviews,$578
+991,Rochester Champs Elysees,8.5,"1,011 reviews",$580
+992,Platine Hotel,8.2,846 reviews,$582
+993,Hotel Le Chat Noir,8.0,"1,588 reviews",$583
+994,New Hotel Roblin,8.3,"1,311 reviews",$584
+995,AC Hotel Paris Porte Maillot by Marriott,8.2,707 reviews,$585
+996,Hôtel de Joséphine BONAPARTE,9.2,434 reviews,$585
+997,Sonder L'Edmond Parc Monceau,8.5,933 reviews,$585
+998,Hotel Louvre Sainte Anne,8.7,335 reviews,$588
+999,Balmoral Champs Elysées,8.4,436 reviews,$589
+1000,Hôtel Le Marquis by Inwood Hotels,8.7,"1,008 reviews",$589
